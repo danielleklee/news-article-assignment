@@ -49,3 +49,4 @@ $ git push
 
 9. Please follow the submission guideline for this project.
 # news-article
+# news-article-assignment
